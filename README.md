@@ -22,6 +22,8 @@ This project has a goal the compilation of the many practiced exercises and exam
 
 :heavy_check_mark: `Source:` IBSEC
 
+:heavy_check_mark: `Source:` SOLYD
+
 ## Technologies used
 
 <p>
