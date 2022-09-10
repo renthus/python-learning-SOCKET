@@ -1,3 +1,7 @@
+#MODULO 6 - TRABALHANDO COM REDES E SOCKETS
+
+#AULA 1 - SOCKET E CLIENT TCP
+
 #cliente tcp
 #se conecta ao servidor tcp
 
@@ -19,3 +23,4 @@ try:
     print(pacotes_recebidos)
 except:
     print("Um erro ocorreu!!!")
+###########----------##########
