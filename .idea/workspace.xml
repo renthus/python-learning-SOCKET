@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4535059-0540-4055-a7f5-c0b5eddd448d" name="Changes" comment="" />
+    <list default="true" id="e4535059-0540-4055-a7f5-c0b5eddd448d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/solyd.py" beforeDir="false" afterPath="$PROJECT_DIR$/solyd.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
