@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4535059-0540-4055-a7f5-c0b5eddd448d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ibsec.py" beforeDir="false" afterPath="$PROJECT_DIR$/ibsec.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
